@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <!-- Feed Metadata -->
+    <title>01 Private Philosophy Podcast</title>
+    <link>https://house-dj.github.io/Private-Podcasts-2</link>
+    <atom:link href="https://house-dj.github.io/Private-Podcasts-2" rel="self" type="application/rss+xml"/>
+    <description>Private philosophy podcast.</description>
+    <language>en</language>
+    <copyright>© 2025 Your Name or Company</copyright>
+    <lastBuildDate>Mon, 03 Feb 2025 12:00:00 GMT</lastBuildDate>
+
+    <!-- iTunes/Apple Podcasts Metadata -->
+    <itunes:author>JDH</itunes:author>
+    <itunes:summary>Private podcast on philosophy topics.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit> <!-- true/false/clean -->
+    <itunes:type>episodic</itunes:type> <!-- episodic or serial -->
+
+    <!-- Podcast Artwork -->
+    <itunes:image href="https://yourwebsite.example/podcast-artwork.jpg" />
+
+    <!-- Categories -->
+    <itunes:category text="Philosophy">
+      <itunes:category text="Education"/>
+    </itunes:category>
+
+    <!-- Owner Information -->
+    <itunes:owner>
+      <itunes:name>JDH</itunes:name>
+      <itunes:email>jdhouse01@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <!-- Episode Item Template -->
+    <item>
+      <title>Test</title>
+      <description><![CDATA[
+        A short episode description goes here.
+      ]]></description>
+
+      <!-- Full content (optional) -->
+      <content:encoded><![CDATA[
+        Full HTML episode content can go here.
+      ]]></content:encoded>
+
+      <link>https://house-dj.github.io/Classics-009-Aphex Twin-Analogue Bubblebath.mp3</link>
+      <guid isPermaLink="false">episode-001-guid</guid>
+      <pubDate>Mon, 03 Feb 2025 10:00:00 GMT</pubDate>
+
+      <!-- Audio File -->
+      <enclosure
+          url="https://house-dj.github.io/Classics-009-Aphex Twin-Analogue Bubblebath.mp3"
+          length="12345678"
+          type="audio/mpeg" />
+
+      <!-- iTunes Episode Metadata -->
+      <itunes:duration>34:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType> <!-- full/trailer/bonus -->
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+
+  </channel>
+</rss>
