@@ -46,18 +46,18 @@
         Full HTML episode content can go here.
       ]]></content:encoded>
 
-      <link>https://house-dj.github.io/Classics-009-Aphex Twin-Analogue Bubblebath.mp3</link>
+      <link>https://house-dj.github.io/Private-Podcasts-2/Classics-009-Aphex Twin-Analogue Bubblebath.mp3</link>
       <guid isPermaLink="false">episode-001-guid</guid>
       <pubDate>Mon, 03 Feb 2025 10:00:00 GMT</pubDate>
 
       <!-- Audio File -->
       <enclosure
-          url="https://house-dj.github.io/Classics-009-Aphex Twin-Analogue Bubblebath.mp3"
+          url="https://house-dj.github.io/Private-Podcasts-2/Classics-009-Aphex Twin-Analogue Bubblebath.mp3"
           length="12345678"
           type="audio/mpeg" />
 
       <!-- iTunes Episode Metadata -->
-      <itunes:duration>34:12</itunes:duration>
+      <itunes:duration>4:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType> <!-- full/trailer/bonus -->
       <itunes:episode>1</itunes:episode>
