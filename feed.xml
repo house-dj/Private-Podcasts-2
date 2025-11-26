@@ -1,68 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:atom="http://www.w3.org/2005/Atom">
-
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns2="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <!-- Feed Metadata -->
     <title>01 Private Philosophy Podcast</title>
     <link>https://house-dj.github.io/Private-Podcasts-2</link>
     <atom:link href="https://house-dj.github.io/Private-Podcasts-2" rel="self" type="application/rss+xml"/>
     <description>Private philosophy podcast.</description>
     <language>en</language>
+    <lastBuildDate>Wed, 26 Nov 2025 12:31:26 +0000</lastBuildDate>
     <copyright>© 2025 Your Name or Company</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 12:00:00 GMT</lastBuildDate>
-
-    <!-- iTunes/Apple Podcasts Metadata -->
     <itunes:author>JDH</itunes:author>
     <itunes:summary>Private podcast on philosophy topics.</itunes:summary>
-    <itunes:explicit>false</itunes:explicit> <!-- true/false/clean -->
-    <itunes:type>episodic</itunes:type> <!-- episodic or serial -->
-
-    <!-- Podcast Artwork -->
-    <itunes:image href="https://yourwebsite.example/podcast-artwork.jpg" />
-
-    <!-- Categories -->
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://yourwebsite.example/podcast-artwork.jpg"/>
     <itunes:category text="Philosophy">
       <itunes:category text="Education"/>
     </itunes:category>
-
-    <!-- Owner Information -->
     <itunes:owner>
       <itunes:name>JDH</itunes:name>
       <itunes:email>jdhouse01@gmail.com</itunes:email>
     </itunes:owner>
-
-    <!-- Episode Item Template -->
+    <item>
+      <title>Doug Metzler1</title>
+      <pubDate>Wed, 26 Nov 2025 12:31:26 +0000</pubDate>
+      <description>Automated upload for: Doug Metzler1</description>
+      <guid isPermaLink="false">Doug</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Doug_Metzler1.mp3" length="320876" type="audio/mpeg"/>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>Test</title>
-      <description><![CDATA[
+      <description>
         A short episode description goes here.
-      ]]></description>
-
-      <!-- Full content (optional) -->
-      <content:encoded><![CDATA[
+      </description>
+      <ns2:encoded>
         Full HTML episode content can go here.
-      ]]></content:encoded>
-
+      </ns2:encoded>
       <link>https://house-dj.github.io/Private-Podcasts-2/Classics-009-Aphex Twin-Analogue Bubblebath.mp3</link>
       <guid isPermaLink="false">episode-001-guid</guid>
       <pubDate>Mon, 03 Feb 2025 10:00:00 GMT</pubDate>
-
-      <!-- Audio File -->
-      <enclosure
-          url="https://house-dj.github.io/Private-Podcasts-2/Classics-009-Aphex Twin-Analogue Bubblebath.mp3"
-          length="12345678"
-          type="audio/mpeg" />
-
-      <!-- iTunes Episode Metadata -->
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Classics-009-Aphex Twin-Analogue Bubblebath.mp3" length="12345678" type="audio/mpeg"/>
       <itunes:duration>4:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType> <!-- full/trailer/bonus -->
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
     </item>
-
   </channel>
 </rss>
