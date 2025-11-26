@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts-2" rel="self" type="application/rss+xml"/>
     <description>Private philosophy podcast.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Nov 2025 12:38:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 12:40:54 +0000</lastBuildDate>
     <copyright>© 2025 Your Name or Company</copyright>
     <itunes:author>JDH</itunes:author>
     <itunes:summary>Private podcast on philosophy topics.</itunes:summary>
@@ -20,6 +20,33 @@
       <itunes:name>JDH</itunes:name>
       <itunes:email>jdhouse01@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Roger Scruton： Liberty &amp; Democracy in Western Civilisation</title>
+      <pubDate>Wed, 26 Nov 2025 12:40:54 +0000</pubDate>
+      <description>Automated upload for: Roger Scruton： Liberty &amp; Democracy in Western Civilisation</description>
+      <guid isPermaLink="false">Roger Scruton： Liberty &amp; Democracy in Western Civilisation.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Roger Scruton： Liberty &amp; Democracy in Western Civilisation.mp3" length="50769644" type="audio/mpeg"/>
+      <itunes:duration>38:05</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>Roger Scruton Beauty in a World of Ugliness</title>
+      <pubDate>Wed, 26 Nov 2025 12:40:54 +0000</pubDate>
+      <description>Automated upload for: Roger Scruton Beauty in a World of Ugliness</description>
+      <guid isPermaLink="false">Roger Scruton Beauty in a World of Ugliness.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Roger Scruton Beauty in a World of Ugliness.mp3" length="56468612" type="audio/mpeg"/>
+      <itunes:duration>01:36:19</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>Of Beauty and Consolation Episode 2 Roger Scruton</title>
+      <pubDate>Wed, 26 Nov 2025 12:40:54 +0000</pubDate>
+      <description>Automated upload for: Of Beauty and Consolation Episode 2 Roger Scruton</description>
+      <guid isPermaLink="false">Of Beauty and Consolation Episode 2 Roger Scruton.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Of Beauty and Consolation Episode 2 Roger Scruton.mp3" length="52412996" type="audio/mpeg"/>
+      <itunes:duration>01:32:19</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>What the great Roger Scruton got wrong about English conservatism... ｜ David Starkey Talks</title>
       <pubDate>Wed, 26 Nov 2025 12:38:16 +0000</pubDate>
