@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts-2" rel="self" type="application/rss+xml"/>
     <description>Private philosophy podcast.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Nov 2025 12:32:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 12:33:06 +0000</lastBuildDate>
     <copyright>© 2025 Your Name or Company</copyright>
     <itunes:author>JDH</itunes:author>
     <itunes:summary>Private podcast on philosophy topics.</itunes:summary>
@@ -20,6 +20,15 @@
       <itunes:name>JDH</itunes:name>
       <itunes:email>jdhouse01@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Roger Scruton – The Future of European Civilization： Lessons for America</title>
+      <pubDate>Wed, 26 Nov 2025 12:33:06 +0000</pubDate>
+      <description>Automated upload for: Roger Scruton – The Future of European Civilization： Lessons for America</description>
+      <guid isPermaLink="false">Roger Scruton – The Future of European Civilization： Lessons for America.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Roger Scruton – The Future of European Civilization： Lessons for America.mp3" length="32076020" type="audio/mpeg"/>
+      <itunes:duration>54:41</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>Doug Metzler1</title>
       <pubDate>Wed, 26 Nov 2025 12:31:26 +0000</pubDate>
