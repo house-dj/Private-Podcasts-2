@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts-2" rel="self" type="application/rss+xml"/>
     <description>Private philosophy podcast.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Nov 2025 12:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 12:38:16 +0000</lastBuildDate>
     <copyright>© 2025 Your Name or Company</copyright>
     <itunes:author>JDH</itunes:author>
     <itunes:summary>Private podcast on philosophy topics.</itunes:summary>
@@ -20,6 +20,33 @@
       <itunes:name>JDH</itunes:name>
       <itunes:email>jdhouse01@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>What the great Roger Scruton got wrong about English conservatism... ｜ David Starkey Talks</title>
+      <pubDate>Wed, 26 Nov 2025 12:38:16 +0000</pubDate>
+      <description>Automated upload for: What the great Roger Scruton got wrong about English conservatism... ｜ David Starkey Talks</description>
+      <guid isPermaLink="false">What the great Roger Scruton got wrong about English conservatism... ｜ David Starkey Talks.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/What the great Roger Scruton got wrong about English conservatism... ｜ David Starkey Talks.mp3" length="39780860" type="audio/mpeg"/>
+      <itunes:duration>33:48</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>Sacred Truths in a Profane World ｜ Hamza Yusuf &amp; Roger Scruton</title>
+      <pubDate>Wed, 26 Nov 2025 12:38:16 +0000</pubDate>
+      <description>Automated upload for: Sacred Truths in a Profane World ｜ Hamza Yusuf &amp; Roger Scruton</description>
+      <guid isPermaLink="false">Sacred Truths in a Profane World ｜ Hamza Yusuf &amp; Roger Scruton.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Sacred Truths in a Profane World ｜ Hamza Yusuf &amp; Roger Scruton.mp3" length="43661492" type="audio/mpeg"/>
+      <itunes:duration>32:30</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>England： An Elegy ｜ Sir Roger Scruton</title>
+      <pubDate>Wed, 26 Nov 2025 12:38:16 +0000</pubDate>
+      <description>Automated upload for: England： An Elegy ｜ Sir Roger Scruton</description>
+      <guid isPermaLink="false">England： An Elegy ｜ Sir Roger Scruton.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/England： An Elegy ｜ Sir Roger Scruton.mp3" length="45203708" type="audio/mpeg"/>
+      <itunes:duration>47:54</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
     <item>
       <title>The West and the Rest ｜ Roger Scruton</title>
       <pubDate>Wed, 26 Nov 2025 12:35:27 +0000</pubDate>
