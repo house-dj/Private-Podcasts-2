@@ -6,7 +6,7 @@
     <atom:link href="https://house-dj.github.io/Private-Podcasts-2" rel="self" type="application/rss+xml"/>
     <description>Private philosophy podcast.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Nov 2025 12:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 12:35:27 +0000</lastBuildDate>
     <copyright>© 2025 Your Name or Company</copyright>
     <itunes:author>JDH</itunes:author>
     <itunes:summary>Private podcast on philosophy topics.</itunes:summary>
@@ -21,21 +21,48 @@
       <itunes:email>jdhouse01@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>The West and the Rest ｜ Roger Scruton</title>
+      <pubDate>Wed, 26 Nov 2025 12:35:27 +0000</pubDate>
+      <description>Automated upload for: The West and the Rest ｜ Roger Scruton</description>
+      <guid isPermaLink="false">The West and the Rest ｜ Roger Scruton.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/The West and the Rest ｜ Roger Scruton.mp3" length="33828692" type="audio/mpeg"/>
+      <itunes:duration>01:07:42</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>Sir Roger Scruton, “A Thing Called Civilization”</title>
+      <pubDate>Wed, 26 Nov 2025 12:35:27 +0000</pubDate>
+      <description>Automated upload for: Sir Roger Scruton, “A Thing Called Civilization”</description>
+      <guid isPermaLink="false">Sir Roger Scruton, “A Thing Called Civilization”.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Sir Roger Scruton, “A Thing Called Civilization”.mp3" length="14389028" type="audio/mpeg"/>
+      <itunes:duration>11:22</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>Roger Scruton： Why Intellectuals are Mostly Left</title>
+      <pubDate>Wed, 26 Nov 2025 12:35:27 +0000</pubDate>
+      <description>Automated upload for: Roger Scruton： Why Intellectuals are Mostly Left</description>
+      <guid isPermaLink="false">Roger Scruton： Why Intellectuals are Mostly Left.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Roger Scruton： Why Intellectuals are Mostly Left.mp3" length="14920988" type="audio/mpeg"/>
+      <itunes:duration>11:55</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
+      <title>Roger Scruton： How Socialism got Repackaged into Human Rights</title>
+      <pubDate>Wed, 26 Nov 2025 12:35:27 +0000</pubDate>
+      <description>Automated upload for: Roger Scruton： How Socialism got Repackaged into Human Rights</description>
+      <guid isPermaLink="false">Roger Scruton： How Socialism got Repackaged into Human Rights.mp3</guid>
+      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Roger Scruton： How Socialism got Repackaged into Human Rights.mp3" length="13066004" type="audio/mpeg"/>
+      <itunes:duration>10:05</itunes:duration>
+      <itunes:author>My Name</itunes:author>
+    </item>
+    <item>
       <title>Roger Scruton – The Future of European Civilization： Lessons for America</title>
       <pubDate>Wed, 26 Nov 2025 12:33:06 +0000</pubDate>
       <description>Automated upload for: Roger Scruton – The Future of European Civilization： Lessons for America</description>
       <guid isPermaLink="false">Roger Scruton – The Future of European Civilization： Lessons for America.mp3</guid>
       <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Roger Scruton – The Future of European Civilization： Lessons for America.mp3" length="32076020" type="audio/mpeg"/>
       <itunes:duration>54:41</itunes:duration>
-      <itunes:author>My Name</itunes:author>
-    </item>
-    <item>
-      <title>Doug Metzler1</title>
-      <pubDate>Wed, 26 Nov 2025 12:31:26 +0000</pubDate>
-      <description>Automated upload for: Doug Metzler1</description>
-      <guid isPermaLink="false">Doug</guid>
-      <enclosure url="https://house-dj.github.io/Private-Podcasts-2/Doug_Metzler1.mp3" length="320876" type="audio/mpeg"/>
-      <itunes:duration>00:20</itunes:duration>
       <itunes:author>My Name</itunes:author>
     </item>
   </channel>
